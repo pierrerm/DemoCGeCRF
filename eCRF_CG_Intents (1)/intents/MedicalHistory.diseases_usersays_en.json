@@ -1,0 +1,122 @@
+[
+  {
+    "id": "446051b8-2fcf-4a4c-9ad1-e1dd50ba689b",
+    "data": [
+      {
+        "text": "What should I put for medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535370810
+  },
+  {
+    "id": "1e89861f-bc63-4c94-9471-3c88e7e122e4",
+    "data": [
+      {
+        "text": "Should infections be reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533821237
+  },
+  {
+    "id": "ea723780-08d1-4130-a7c0-48451217683e",
+    "data": [
+      {
+        "text": "What diseases have to be reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533821237
+  },
+  {
+    "id": "83bbdd31-61ff-468c-92a9-306f79514aa3",
+    "data": [
+      {
+        "text": "When should I check yes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533821237
+  },
+  {
+    "id": "d5b87d46-6e0c-43d2-a306-b4773d5e404b",
+    "data": [
+      {
+        "text": "what is considered a past or current disease?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533821237
+  },
+  {
+    "id": "670ef0c7-9c47-42d9-a418-f3fd7454c191",
+    "data": [
+      {
+        "text": "Where should medications taken by the subject be reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533821237
+  },
+  {
+    "id": "ce2099fb-53b1-4307-91ef-7fa41e562ff2",
+    "data": [
+      {
+        "text": "Where should a disease that gets worse be reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533821237
+  },
+  {
+    "id": "c473fe74-01d7-4965-8175-3635c9c33fc8",
+    "data": [
+      {
+        "text": "How should I report medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535370810
+  },
+  {
+    "id": "830e27e5-1600-4f2f-9da0-8bec7717709a",
+    "data": [
+      {
+        "text": "How do I report medical history?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535370810
+  },
+  {
+    "id": "1c55dc89-9612-446a-a74a-bb288fffe1d7",
+    "data": [
+      {
+        "text": "Where should a conditions that worsens be reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1533821237
+  }
+]

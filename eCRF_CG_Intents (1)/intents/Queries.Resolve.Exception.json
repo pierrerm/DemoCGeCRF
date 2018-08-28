@@ -1,0 +1,33 @@
+{
+  "id": "325c98db-aec7-424a-93c5-29c8bf4f2985",
+  "name": "Queries.Resolve.Exception",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "In some cases, when the data does not need to be updated, a clarification can be provided in the query reply field marked by a circular arrow 🔄, and click \"Save\"."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The reply will remain visible on the screen until the query is closed by the CRA or by the query writer for manual query (e.g DM query will be closed by Data Manager). The query text will then disappear and will only be visible in the audit trail."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533809893,
+  "fallbackIntent": false,
+  "events": []
+}

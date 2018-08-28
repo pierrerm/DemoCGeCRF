@@ -1,0 +1,51 @@
+{
+  "id": "31babb11-7afc-4f3e-a044-3d3f126bbd56",
+  "name": "AdverseEvent.Add",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/NewAE_zpsmq9sujsq.png"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/NewAE_zpsmq9sujsq.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/NewAE_zpsmq9sujsq.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To add a new event, click on “Add a new Log Line”:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false,
+        "telegram": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535445960,
+  "fallbackIntent": false,
+  "events": []
+}

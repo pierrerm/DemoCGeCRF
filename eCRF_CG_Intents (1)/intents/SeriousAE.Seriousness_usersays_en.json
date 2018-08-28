@@ -1,0 +1,50 @@
+[
+  {
+    "id": "7301cf28-219a-4761-ba2f-7757cdf5fc42",
+    "data": [
+      {
+        "text": "Can I leave out the seriousness for now ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930348
+  },
+  {
+    "id": "2b4aa7a4-511f-4644-80cd-7d3229fa4aed",
+    "data": [
+      {
+        "text": "What if I don\u0027t know the seriousness criteria yet ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930348
+  },
+  {
+    "id": "43a87c51-ce47-40fd-9d03-1a03af304719",
+    "data": [
+      {
+        "text": "Can I tick the seriousness box at a later time ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930348
+  },
+  {
+    "id": "27e204e6-29ee-4b7c-8b71-0feffd49b8bb",
+    "data": [
+      {
+        "text": "How many boxes can I check for seriousness ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930348
+  }
+]

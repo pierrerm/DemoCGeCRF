@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f277c769-4165-459d-92ed-032891303ec8",
+    "data": [
+      {
+        "text": "Where can I add a new CM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  },
+  {
+    "id": "e07c6015-35d6-40cf-b741-5f159679fb18",
+    "data": [
+      {
+        "text": "Where can I add a concomitant medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  },
+  {
+    "id": "9b59af10-9dd2-4e9d-b0ba-dd55bf8ef126",
+    "data": [
+      {
+        "text": "Where can I add a new concomitant med?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  },
+  {
+    "id": "ba893b3f-7f1b-48a4-89ca-307a234c14c2",
+    "data": [
+      {
+        "text": "How do I enter another concomitant medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  },
+  {
+    "id": "6c70d4ed-0a35-46af-bcd7-98a1c238a43f",
+    "data": [
+      {
+        "text": "How do I enter a new concomitant medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  },
+  {
+    "id": "594c245e-cff9-4050-beb8-3c17829e6de5",
+    "data": [
+      {
+        "text": "Where do I add Concomitant meds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  },
+  {
+    "id": "10fe72d6-9de1-42b0-b5e8-7fca56fd2832",
+    "data": [
+      {
+        "text": "How do I add a new CM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  },
+  {
+    "id": "08d74ecb-c978-4f2f-9025-f6692f9ff52f",
+    "data": [
+      {
+        "text": "How can I add another medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535015014
+  },
+  {
+    "id": "b4053a5c-9c47-4e79-a80d-8d1d353b663f",
+    "data": [
+      {
+        "text": "How do I enter a new CM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015014
+  }
+]

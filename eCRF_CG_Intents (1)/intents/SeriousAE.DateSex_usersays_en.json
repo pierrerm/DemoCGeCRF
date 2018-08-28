@@ -1,0 +1,50 @@
+[
+  {
+    "id": "d056d993-5a5f-41cd-9f70-f497d4bbd149",
+    "data": [
+      {
+        "text": "Where can I view the date of birth and sex of the patient in the SAE form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535030101
+  },
+  {
+    "id": "c940f5dc-7381-4fb2-b9d3-899ade0279a7",
+    "data": [
+      {
+        "text": "Why are the date of birth and sex already filled in?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535030101
+  },
+  {
+    "id": "e4d2b708-896e-4574-8f56-88499cb47d2b",
+    "data": [
+      {
+        "text": "Where can I modify the date of birth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535030101
+  },
+  {
+    "id": "72f8f0e5-53d6-4d9f-bab0-0ad078b3e890",
+    "data": [
+      {
+        "text": "How can I change the sex of the subject?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535030101
+  }
+]

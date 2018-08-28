@@ -1,0 +1,113 @@
+{
+  "id": "204b1f9d-3f0f-4f14-93d8-665236594e0f",
+  "name": "Welcome.Default",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi!",
+            "Hello!",
+            "Good day!",
+            "Hey!",
+            "Hi there!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I am your eCRF completion companion, you can ask me questions if you need help or clarification at any point during the completion of the data capture form. I will do my best to be as concise yet precise as possible. I am based on the CCI document which you have received for this study, and should consult if my answers do not fully satisfy your expectations."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Try asking me questions like \"How do I resolve a query?\" or \"what is the format of the date of birth?\""
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "yo"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "fr",
+          "items": [
+            {
+              "textToSpeech": "Bonjour!\nMoi c\u0027est [nom choisi]!\nComment puis-je vous aider?"
+            },
+            {
+              "textToSpeech": "Salut!\nJe m\u0027appelle [nom choisi]!\nQue puis-je faire pour vous?"
+            },
+            {
+              "textToSpeech": "Hello!\nJe m\u0027apelle [nom choisi]!\nComment puis-je vous aider?"
+            },
+            {
+              "textToSpeech": "Enchanté!\nMoi cest [nom choisi]!\nQue puis-je faire pour vous?"
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "fr",
+          "suggestions": [
+            {
+              "title": "mobile banking"
+            },
+            {
+              "title": "e-banking"
+            },
+            {
+              "title": "Problème de carte Maestro"
+            }
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telegram": false,
+        "google": false,
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535447788,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    },
+    {
+      "name": "FACEBOOK_WELCOME"
+    },
+    {
+      "name": "SLACK_WELCOME"
+    },
+    {
+      "name": "KIK_WELCOME"
+    },
+    {
+      "name": "SKYPE_WELCOME"
+    },
+    {
+      "name": "VIBER_WELCOME"
+    },
+    {
+      "name": "TELEGRAM_WELCOME"
+    }
+  ]
+}

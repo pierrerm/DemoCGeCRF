@@ -1,0 +1,74 @@
+[
+  {
+    "id": "5dcd7f7a-8b7e-43d8-a45e-1879be361cd4",
+    "data": [
+      {
+        "text": "What if I don\u0027t have a start date for an AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014771
+  },
+  {
+    "id": "e8c41a3d-7319-4482-bfe4-6573fd1752fb",
+    "data": [
+      {
+        "text": "what do I do if the end date is missing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014771
+  },
+  {
+    "id": "e4f2d514-a990-44ad-8bf1-80a3ccf5c07c",
+    "data": [
+      {
+        "text": "The end date of an Adverse Event is missing, what can i do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014771
+  },
+  {
+    "id": "37995aec-029f-40b9-8465-41fde2e369d1",
+    "data": [
+      {
+        "text": "What should I do if I don\u0027t know the end date of a concomitant medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014771
+  },
+  {
+    "id": "a0894953-aa92-499f-915e-77ff1f9917b0",
+    "data": [
+      {
+        "text": "what if I don\u0027t have a start date?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014771
+  },
+  {
+    "id": "20ca9d50-e5c3-4f1f-b43d-8f6f4cb8e62e",
+    "data": [
+      {
+        "text": "The start date of a CM is missing, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014771
+  }
+]

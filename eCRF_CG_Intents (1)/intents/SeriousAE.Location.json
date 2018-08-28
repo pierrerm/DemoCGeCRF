@@ -1,0 +1,50 @@
+{
+  "id": "a129632b-88e3-4bfc-ad36-ab4b10af7cef",
+  "name": "SeriousAE.Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/SAE_zps6zgtn4jr.png"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/SAE_zps6zgtn4jr.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/SAE_zps6zgtn4jr.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "SAE form is triggered in the folder “All Serious Adverse Event” (Sub-folder of AE folder)."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535447665,
+  "fallbackIntent": false,
+  "events": []
+}

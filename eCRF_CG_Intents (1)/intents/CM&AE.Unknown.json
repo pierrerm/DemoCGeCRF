@@ -1,0 +1,28 @@
+{
+  "id": "8856c693-9ca7-4366-ba4b-19e5d410b575",
+  "name": "CM\u0026AE.Unknown",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If start date or end date is missing/not available, please refer to the part “Date and Time” of the section “9. DATA ENTRY” of the PDF document."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535014771,
+  "fallbackIntent": false,
+  "events": []
+}

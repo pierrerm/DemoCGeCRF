@@ -1,0 +1,206 @@
+[
+  {
+    "id": "c1a229b9-c2d4-4b03-a841-c639211a42cb",
+    "data": [
+      {
+        "text": "How do I enter a CM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535447061
+  },
+  {
+    "id": "4259e735-6e7b-4f17-bc61-fe9f83c8cb53",
+    "data": [
+      {
+        "text": "How do I enter a concomitant medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535447061
+  },
+  {
+    "id": "091f3981-6a2b-4f91-a974-d6e4320358e9",
+    "data": [
+      {
+        "text": "How do I enter a conc med?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535447061
+  },
+  {
+    "id": "d12d6e08-7ce3-4a88-95c5-92c2da1b1725",
+    "data": [
+      {
+        "text": "Where do I record concomitant medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535015295
+  },
+  {
+    "id": "9258b7c9-1e53-40bd-a93f-52cb0ce2cdd1",
+    "data": [
+      {
+        "text": "Where should I fill in the concomitant meds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535376028
+  },
+  {
+    "id": "62b2e158-94d5-463e-aed1-7cbf60d35954",
+    "data": [
+      {
+        "text": "where should concomitant medications be reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534756124
+  },
+  {
+    "id": "9dc327a9-f17b-418a-a8f9-d67b9128c217",
+    "data": [
+      {
+        "text": "how do I record a conc med?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535376028
+  },
+  {
+    "id": "42b4bd46-058b-444f-be1f-391a4f9bebdb",
+    "data": [
+      {
+        "text": "When should I fill the conc med form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535366804
+  },
+  {
+    "id": "b28907dc-11c6-4ba3-91d2-9b9435cbe6e3",
+    "data": [
+      {
+        "text": "Where do I enter CM?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015295
+  },
+  {
+    "id": "be5b4cab-e967-47fa-be44-79bcf378479f",
+    "data": [
+      {
+        "text": "Where do I enter CM info?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535376028
+  },
+  {
+    "id": "70b42c5b-a380-4a9e-9b72-aa57f5c459a3",
+    "data": [
+      {
+        "text": "What should I fill out for concomitant medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015295
+  },
+  {
+    "id": "801150df-5492-4cba-8d09-683cf66be2fa",
+    "data": [
+      {
+        "text": "when should i fill a cm form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535366804
+  },
+  {
+    "id": "600193d0-a134-4f1c-b3ea-d8835f4aa7c1",
+    "data": [
+      {
+        "text": "When should the concomitant medication form be filled?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534756124
+  },
+  {
+    "id": "bc74c993-0a4c-4a46-b8e0-e115f7d2bbe2",
+    "data": [
+      {
+        "text": "Do I have to fill the concomitant medications form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535366804
+  },
+  {
+    "id": "b7df1d69-51df-44d0-97da-b814b5a0a3d5",
+    "data": [
+      {
+        "text": "How do I record a concomitant medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535376028
+  },
+  {
+    "id": "8c5f4457-7d84-4adc-a6d4-2c20b9e9c99a",
+    "data": [
+      {
+        "text": "Where should I record concomitant medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535015295
+  },
+  {
+    "id": "23feec54-edee-431a-89f7-297a9e5b4036",
+    "data": [
+      {
+        "text": "how do I record a cm?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535376028
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "id": "48c8c1dd-c991-4a1c-897b-18bb90a3d768",
+  "parentId": "c617c984-1e9d-4759-a4b8-0a299446af4f",
+  "rootParentId": "c617c984-1e9d-4759-a4b8-0a299446af4f",
+  "name": "AdverseEvent.Determine - no",
+  "auto": true,
+  "contexts": [
+    "AdverseEventDetermine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "AdverseEventDetermine.AdverseEventDetermine-no",
+      "affectedContexts": [
+        {
+          "name": "AdverseEventDetermine-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr-fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534843064,
+  "fallbackIntent": false,
+  "events": []
+}

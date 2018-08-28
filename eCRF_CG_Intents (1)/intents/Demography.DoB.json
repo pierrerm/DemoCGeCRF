@@ -1,0 +1,28 @@
+{
+  "id": "a92b7d31-968c-4af3-9392-99d6f4cc2369",
+  "name": "Demography.DoB",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When entering a date of birth, please provide a complete date (mm/dd/yyyy)."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533810127,
+  "fallbackIntent": false,
+  "events": []
+}

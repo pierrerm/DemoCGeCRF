@@ -1,0 +1,122 @@
+[
+  {
+    "id": "f13fa26f-2c07-4174-8356-ad175ad2fc50",
+    "data": [
+      {
+        "text": "How do I get the race of the subject?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "7b617cec-8046-4253-a170-f4ea62d8ae39",
+    "data": [
+      {
+        "text": "Should I select the race of the subject?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "531685f0-f1ee-40af-8898-dae54de90ca6",
+    "data": [
+      {
+        "text": "Help me determine the race of the subject",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "03274cff-ae58-404e-8f66-2dedfc6fe482",
+    "data": [
+      {
+        "text": "Who can I ask if the subject is not able to tell me his race?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "df43f359-24ad-4bbd-9324-315508927023",
+    "data": [
+      {
+        "text": "how to determine subject race",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "e0d92025-e93f-4fb2-b051-2c626dcea94b",
+    "data": [
+      {
+        "text": "The patient isn\u0027t able to designate his race, should I?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "964c006c-dfba-4650-b846-ac29a6599fb6",
+    "data": [
+      {
+        "text": "Who should I ask for the patient\u0027s race?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "4be3cb98-9625-4a50-8859-f4dd3693ae77",
+    "data": [
+      {
+        "text": "How do I get the race of the patient?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "d74df433-14bd-451f-bcf2-9c415a57ac72",
+    "data": [
+      {
+        "text": "How do we determine the race of the subject?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  },
+  {
+    "id": "ac4489d8-89c4-40ca-a44e-160b249853f9",
+    "data": [
+      {
+        "text": "Who should report the race of the subject?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810495
+  }
+]

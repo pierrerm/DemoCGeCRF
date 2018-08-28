@@ -1,0 +1,49 @@
+{
+  "id": "e14f34bb-5904-408a-a892-3be14ddceb63",
+  "name": "Demography.Race.Explain",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": true,
+      "affectedContexts": [
+        {
+          "name": "raceType",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [
+        {
+          "id": "00945a6d-fd0d-44e6-ba4d-70d8518fd594",
+          "required": true,
+          "dataType": "@RaceType",
+          "name": "RaceType",
+          "value": "$RaceType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which category would you like more info about?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533888685,
+  "fallbackIntent": false,
+  "events": []
+}

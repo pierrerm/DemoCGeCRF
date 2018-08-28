@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3066140a-1248-41cd-82fa-245ad38fd06b",
+    "data": [
+      {
+        "text": "Can multiple Concomitant medications be related to a single Adverse Event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014008
+  },
+  {
+    "id": "79b94d91-ad9d-4480-954e-883874d7043b",
+    "data": [
+      {
+        "text": "How do I format CM numbers if several of them relate to one AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014008
+  },
+  {
+    "id": "31c6f692-5bcf-4b32-b50e-de2896ce9af6",
+    "data": [
+      {
+        "text": "Can I enter multiple concomitant medication identifiers for one AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014008
+  },
+  {
+    "id": "1c1d53b6-b5a7-4701-92ae-621c295df037",
+    "data": [
+      {
+        "text": "What happens when an adverse event is related to multiple concomitant medications?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014008
+  },
+  {
+    "id": "a76f5074-bafc-4050-8b38-cc923a56aad6",
+    "data": [
+      {
+        "text": "How do I enter CM identifiers if the Adverse Event is related to mutliple concomitant meds?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014008
+  }
+]

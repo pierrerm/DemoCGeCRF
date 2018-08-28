@@ -1,0 +1,272 @@
+[
+  {
+    "id": "0dfb5193-46bb-4d8f-89a0-8097bad52cbd",
+    "data": [
+      {
+        "text": "explain what ",
+        "userDefined": false
+      },
+      {
+        "text": "unkown",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": " is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "16591851-c996-40de-bd58-dc1090685d7a",
+    "data": [
+      {
+        "text": "who counts as ",
+        "userDefined": false
+      },
+      {
+        "text": "native hawaiian",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "b5448b41-0c07-49db-9bcb-4915bb6f44c4",
+    "data": [
+      {
+        "text": "Who is considered ",
+        "userDefined": false
+      },
+      {
+        "text": "alaska native",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "2428f2b9-469f-4ae9-bc23-2a3bd0cb1cf5",
+    "data": [
+      {
+        "text": "who makes up the ",
+        "userDefined": false
+      },
+      {
+        "text": "white",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": " category?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "a28366e6-d847-47d7-84f1-eea2a5f18bfe",
+    "data": [
+      {
+        "text": "what counts as ",
+        "userDefined": false
+      },
+      {
+        "text": "unknown",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "fed1d9dc-6b45-46ae-9d40-391659d5599e",
+    "data": [
+      {
+        "text": "under what circumstances should I enter \"",
+        "userDefined": false
+      },
+      {
+        "text": "not reported",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": false
+      },
+      {
+        "text": "\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "dd0bb559-a62c-4ac8-bead-d8fd8c6136d7",
+    "data": [
+      {
+        "text": "Asian",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "4c8fa6fc-232b-4602-939a-f4a15a29ffa8",
+    "data": [
+      {
+        "text": "who can be considered ",
+        "userDefined": false
+      },
+      {
+        "text": "islander",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "becd9a29-64c6-4ab1-91a4-7605c6e58121",
+    "data": [
+      {
+        "text": "explain ",
+        "userDefined": false
+      },
+      {
+        "text": "not reported",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "a61f5d66-bd8e-4461-b6c5-e224709fbfee",
+    "data": [
+      {
+        "text": "my patient\u0027s father is ",
+        "userDefined": false
+      },
+      {
+        "text": "black",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": ", can he be considered as such?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "36bff8a9-8a3f-49f9-8268-1718c66c703b",
+    "data": [
+      {
+        "text": "when should I enter ",
+        "userDefined": false
+      },
+      {
+        "text": "unknown",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "a28ebf04-4a41-417c-91cf-94a7e7681cb2",
+    "data": [
+      {
+        "text": "what does ",
+        "userDefined": false
+      },
+      {
+        "text": "not reported",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": " mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  },
+  {
+    "id": "da4ce070-f924-44a9-beac-916ecb374c3c",
+    "data": [
+      {
+        "text": "my subject\u0027s grandomother is ",
+        "userDefined": false
+      },
+      {
+        "text": "asian",
+        "alias": "RaceType",
+        "meta": "@RaceType",
+        "userDefined": true
+      },
+      {
+        "text": ", should I select this category?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533888685
+  }
+]

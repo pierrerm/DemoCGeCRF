@@ -1,0 +1,37 @@
+{
+  "id": "7c8ba7d6-55d7-4cc2-8e75-4fdd8eecf01b",
+  "name": "Queries.System.OtherProgrammed",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Other programmed queries, marked by the ❓, are a type of system queries, and can be found in the Task Summary under the \u0027Open Queries\u0027 section."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "An example of an other programmed query is when a question has been answered with \"No\", but the following \"If Yes, please specify\" question has been answered as well."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": false,
+        "telegram": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533738441,
+  "fallbackIntent": false,
+  "events": []
+}

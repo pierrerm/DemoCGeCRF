@@ -1,0 +1,28 @@
+{
+  "id": "cbe7d9ba-db59-42d2-90da-4fa7dee7a8fc",
+  "name": "SeriousAE.SafetyTeam",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "SAE email notification will be sent automatically to the safety team - Fax notification are not needed."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535027302,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6955384e-6728-4c08-8ef2-e0312428473e",
+    "data": [
+      {
+        "text": "What diagnosis apply to what age groups?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889891
+  },
+  {
+    "id": "3db552df-4a55-45d0-bdc5-d5cf705b95e3",
+    "data": [
+      {
+        "text": "show me some examples for the different body systems",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889891
+  },
+  {
+    "id": "c8853e94-af39-4490-9ead-a535da88a8e6",
+    "data": [
+      {
+        "text": "how do I express a diagnosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889891
+  },
+  {
+    "id": "584b1ac5-915e-48b7-b1ab-dc51b4c42f07",
+    "data": [
+      {
+        "text": "give me some examples of diagnosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889891
+  },
+  {
+    "id": "344ccf96-1f17-4f5b-a2f1-be36f6a55bc3",
+    "data": [
+      {
+        "text": "Can you provide a few examples of diagnosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889891
+  },
+  {
+    "id": "9ace1d02-d939-4724-b937-c6c0118e4248",
+    "data": [
+      {
+        "text": "what are some common diagnosis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889891
+  }
+]

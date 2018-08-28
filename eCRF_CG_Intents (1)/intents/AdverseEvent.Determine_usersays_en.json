@@ -1,0 +1,62 @@
+[
+  {
+    "id": "db292d9e-cce1-46e9-b3ec-b756ac3104d1",
+    "data": [
+      {
+        "text": "How do I know what Adverse event forms to fill?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012225
+  },
+  {
+    "id": "3d477e71-286f-44ee-b69a-e1ed98cf2825",
+    "data": [
+      {
+        "text": "How do I fill out the AE form if the diagnosis is not known?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012225
+  },
+  {
+    "id": "358b0cc1-5ccb-4e8c-acbf-a78ebcfac751",
+    "data": [
+      {
+        "text": "Do I fill out Adverse Event forms for symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012225
+  },
+  {
+    "id": "b888ab42-4da5-496a-b923-c3425a72d83b",
+    "data": [
+      {
+        "text": "Should I fill out an AE form for each symptom?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012225
+  },
+  {
+    "id": "a7b1639f-4a05-42b0-9551-c496048d2a5a",
+    "data": [
+      {
+        "text": "How many adverse event forms should I fill out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012225
+  }
+]

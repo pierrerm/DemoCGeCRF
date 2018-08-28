@@ -1,0 +1,62 @@
+[
+  {
+    "id": "36e808d5-2508-4183-9e81-d377201cea61",
+    "data": [
+      {
+        "text": "Do I report symptoms on the AE form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013319
+  },
+  {
+    "id": "b5423430-101a-4fbb-b29d-bcc4e73dfd0e",
+    "data": [
+      {
+        "text": "How do I fill out Adverse event forms for several Adverse Events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013319
+  },
+  {
+    "id": "0c2e4ba4-5380-4e9a-90c9-452a6e685993",
+    "data": [
+      {
+        "text": "What happens if the subject suffers form multiple Adverse Events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013319
+  },
+  {
+    "id": "a95ccc91-fd5b-4973-b6f4-f1c4c5c27972",
+    "data": [
+      {
+        "text": "Do I fill out the AE form based on diagnosis or symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013319
+  },
+  {
+    "id": "c2e7da55-25ff-45b7-9e57-c297c1f317ce",
+    "data": [
+      {
+        "text": "Can I report multiple adverse events on a single form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013319
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "95b089b4-655a-4202-b71b-dc2a883dea8a",
+    "data": [
+      {
+        "text": "Do I need to contact safety team if an SAE happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535027302
+  },
+  {
+    "id": "0d57d7af-ea6f-475d-a924-3ff4afaa9e8e",
+    "data": [
+      {
+        "text": "Should I warn safety team if a serious adverse event occurs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535027302
+  },
+  {
+    "id": "cc1912d2-2851-4295-a785-546aea2b0e03",
+    "data": [
+      {
+        "text": "Should I contact anyone if an SAE happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535027302
+  },
+  {
+    "id": "1d7c4778-912b-4543-af13-7d0ebaf027de",
+    "data": [
+      {
+        "text": "Do I need to warn anyone if a serious adverse event occurs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535027302
+  }
+]

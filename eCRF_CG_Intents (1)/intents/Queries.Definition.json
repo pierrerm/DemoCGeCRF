@@ -1,0 +1,50 @@
+{
+  "id": "0a664abc-db0e-4f3e-b683-e2a4ef993cea",
+  "name": "Queries.Definition",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Would you like to know more?",
+          "replies": [
+            "Resolving queries",
+            "View queries",
+            "Manual queries",
+            "System queries",
+            "No thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Queries are the electronic equivalent of paper Data Correction Forms. There are two types of queries: system queries and manual queries."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "A record with unresolved queries turns 𝗽𝗶𝗻𝗸 and the query will also appear on your task summary."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": true,
+        "telegram": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533726789,
+  "fallbackIntent": false,
+  "events": []
+}

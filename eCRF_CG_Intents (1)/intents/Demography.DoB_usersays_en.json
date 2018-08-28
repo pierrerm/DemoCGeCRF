@@ -1,0 +1,86 @@
+[
+  {
+    "id": "c53d6508-78c9-48b6-98e4-5e67f6034659",
+    "data": [
+      {
+        "text": "day of birth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810118
+  },
+  {
+    "id": "8ad2e52d-d03e-4c7c-bfcd-87d7fc142513",
+    "data": [
+      {
+        "text": "Date of birth format?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810118
+  },
+  {
+    "id": "d2a2f04b-b1c2-4297-98c8-864787f7b301",
+    "data": [
+      {
+        "text": "how to input the birthday",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810118
+  },
+  {
+    "id": "b27132e0-65dd-41ff-88b1-af07f41f81da",
+    "data": [
+      {
+        "text": "date of birth format",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810118
+  },
+  {
+    "id": "cbb67a7c-3c6b-4947-a904-44630ea1688e",
+    "data": [
+      {
+        "text": "What is the format of the date of birth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810118
+  },
+  {
+    "id": "91e1e63c-0bf9-433c-87bb-b398df02f753",
+    "data": [
+      {
+        "text": "Should I include the day in the date of birth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810118
+  },
+  {
+    "id": "51015a5e-9269-430f-a530-5196d9b7725c",
+    "data": [
+      {
+        "text": "How should I input the date of birth?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533810118
+  }
+]

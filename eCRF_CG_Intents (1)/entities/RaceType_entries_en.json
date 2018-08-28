@@ -1,0 +1,90 @@
+[
+  {
+    "value": "Asian",
+    "synonyms": [
+      "Asian",
+      "asian",
+      "asia",
+      "Asia"
+    ]
+  },
+  {
+    "value": "American Indian or Alaska Native",
+    "synonyms": [
+      "American Indian or Alaska Native",
+      "american indian",
+      "alaska native",
+      "native american",
+      "Alaskan native",
+      "alaskan indian",
+      "american indian or native",
+      "America",
+      "Alaska",
+      "South America",
+      "Latin America"
+    ]
+  },
+  {
+    "value": "Not Reported",
+    "synonyms": [
+      "Not Reported",
+      "not reported",
+      "n/a",
+      "not disclosed"
+    ]
+  },
+  {
+    "value": "White",
+    "synonyms": [
+      "White",
+      "European",
+      "Caucasian",
+      "North African",
+      "White american",
+      "Europe",
+      "North africa",
+      "Arab",
+      "Maghreb"
+    ]
+  },
+  {
+    "value": "Native Hawaiian or Other Pacific Islander",
+    "synonyms": [
+      "Native Hawaiian or Other Pacific Islander",
+      "Native Hawaiian",
+      "Other Pacific Islander",
+      "Pacific Islander",
+      "tahitian",
+      "Hawaiian",
+      "Maui",
+      "Maori",
+      "Islander",
+      "native islander",
+      "hawaii",
+      "islands",
+      "pacific",
+      "ocean"
+    ]
+  },
+  {
+    "value": "Black",
+    "synonyms": [
+      "Black",
+      "black",
+      "african-american",
+      "african american",
+      "sub-saharian",
+      "African",
+      "black african",
+      "africa",
+      "Africa"
+    ]
+  },
+  {
+    "value": "Unknown",
+    "synonyms": [
+      "Unknown",
+      "unkown"
+    ]
+  }
+]

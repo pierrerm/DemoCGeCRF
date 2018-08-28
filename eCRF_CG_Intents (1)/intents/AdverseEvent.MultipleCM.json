@@ -1,0 +1,51 @@
+{
+  "id": "c78b970c-fbd5-4b8d-b4fd-ae9336f9a19f",
+  "name": "AdverseEvent.MultipleCM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/CMAE_zps9rfoulu3.png"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/CMAE_zps9rfoulu3.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/CMAE_zps9rfoulu3.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When an Adverse event is related to multiple concomitant medications (CM), please provide each Concomitant medication number separated by a comma: \"1,3\":"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false,
+        "telegram": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535446832,
+  "fallbackIntent": false,
+  "events": []
+}

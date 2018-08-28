@@ -1,0 +1,28 @@
+{
+  "id": "d70f8137-38ee-48ef-9f5f-2620247bbeb9",
+  "name": "AdverseEvent.Discontinuation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If “Caused study discontinuation” is answered Yes, please complete “Completion/discontinuation” form and tick “Adverse Event” as Drop-out reason."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535032373,
+  "fallbackIntent": false,
+  "events": []
+}

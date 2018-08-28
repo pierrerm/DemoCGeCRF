@@ -1,0 +1,43 @@
+{
+  "id": "2c4393a7-b17a-4910-b026-55aab717784c",
+  "parentId": "72ac5bca-50ba-48c4-9348-ef213c067915",
+  "rootParentId": "72ac5bca-50ba-48c4-9348-ef213c067915",
+  "name": "Queries.Resolve - yes",
+  "auto": true,
+  "contexts": [
+    "QueriesResolve-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "QueriesResolve.QueriesResolve-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If you are still struggling with the resolution of a query, please contact support@example.com"
+        },
+        {
+          "type": 0,
+          "lang": "fr-fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535369034,
+  "fallbackIntent": false,
+  "events": []
+}

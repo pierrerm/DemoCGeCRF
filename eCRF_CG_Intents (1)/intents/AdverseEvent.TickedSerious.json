@@ -1,0 +1,51 @@
+{
+  "id": "06513e2d-bd04-4cfc-be91-a07fdcfb1ac0",
+  "name": "AdverseEvent.TickedSerious",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/CMSAE_zpsciu40gky.png"
+        },
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/CMSAE_zpsciu40gky.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/CMSAE_zpsciu40gky.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When the AE is ticked serious and CM has been taken due to this serious AE, please answer as follow and enter the CM in the SAE form: \"SEE SAE FORM\":"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false,
+        "skype": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535446878,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,50 @@
+{
+  "id": "fd46248e-8bc6-459c-80c4-d2ff876d3d2a",
+  "name": "ConcomitantMedication.Indication",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/Indication_zpszyp96l0x.png"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/Indication_zpszyp96l0x.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/Indication_zpszyp96l0x.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "For the fields, “Indication, related to AE” and “Indication, related to MH”, only provide the AE or MH number and not the complete Adverse event or Medical history term (if applicable)."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535447185,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,28 @@
+{
+  "id": "f13bc4d5-f57c-4f9f-8d33-d5ae95dc3f76",
+  "name": "SeriousAE.DateSex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "“Date of birth” and “Sex” will be automatically filled if previously entered in Screening visit (V-2), Form: Subject identification."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535030101,
+  "fallbackIntent": false,
+  "events": []
+}

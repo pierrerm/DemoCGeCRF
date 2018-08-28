@@ -1,0 +1,28 @@
+{
+  "id": "37defe94-dac7-4e30-aab2-0d980cbcfb79",
+  "name": "AdverseEvent.Instruction2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Complete dates in the right format (dd/mmm/yyyy), using the three letters code for months; please note that JUN\u003dJUNE and JUL\u003dJULY. If the date is not complete at the time of initial reporting, put NA and complete at follow-up. Blanks should not be accepted for dates, and will be considered as missing data by convention that will be followed up by queries."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535013050,
+  "fallbackIntent": false,
+  "events": []
+}

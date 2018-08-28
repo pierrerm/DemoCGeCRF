@@ -1,0 +1,65 @@
+{
+  "id": "f1ab0b85-133c-4a18-bbc8-621121240c77",
+  "name": "MedicalHistory.diseases",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "https://media.giphy.com/media/1xpm1uhQLHZhsPDqp2/giphy.gif"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "https://media.giphy.com/media/1xpm1uhQLHZhsPDqp2/giphy.gif"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://media.giphy.com/media/1xpm1uhQLHZhsPDqp2/giphy.gif"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "•  Check Yes to \u0027Has the subject experienced any significant past and/or current diseases?\u0027 if there is any significant prior conditions or illnesses (reported as diagnosis), including conditions for which the subject is or has been followed by a physician or conditions that could resume during the course of the study or lead to an SAE or to a repetitive outpatient care."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "•  Do not report past common isolated infections without sequelae (e.g rhinitis, bronchitis, common cold etc...). If a chronic allergy is entered, indicate in the verbatim if it was symptomatic or not at inclusion."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "•  The worsening of pre-existing condition is an AE and should be reported in the Unsolicited Systemic Events page of the CRF."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "•  Any medications the subject is still taking and which correspond to the reportable categories as a result of the ongoing Medical History should be recorded on the Reportable Medication page of the CRF:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535447320,
+  "fallbackIntent": false,
+  "events": []
+}

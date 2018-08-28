@@ -1,0 +1,185 @@
+[
+  {
+    "id": "4f83c9b9-d4fe-4056-a605-8c6289d86211",
+    "data": [
+      {
+        "text": "Can I fill in the AE form in ",
+        "userDefined": false
+      },
+      {
+        "text": "french",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012704
+  },
+  {
+    "id": "13b5c35d-5907-4ea6-b8bf-132883d62724",
+    "data": [
+      {
+        "text": "How do I record an Adverse Event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535377595
+  },
+  {
+    "id": "6a916252-3aec-4380-a9ef-6fc47c1c3f0b",
+    "data": [
+      {
+        "text": "What should I do when an adverse event occurs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535377595
+  },
+  {
+    "id": "0c88e5a6-6678-4ea7-8012-7ebaf2aa8c8f",
+    "data": [
+      {
+        "text": "What should I do if an AE occurs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535377595
+  },
+  {
+    "id": "d9baa6e0-c70d-4f30-b519-2aa1fa7fef2f",
+    "data": [
+      {
+        "text": "In what language can I fill out the adverse event form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012704
+  },
+  {
+    "id": "5804003d-0dbb-421f-a3b3-5ddae4b3821b",
+    "data": [
+      {
+        "text": "What should I do when an AE occurs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535377595
+  },
+  {
+    "id": "30a153ce-ef07-49ae-8f8a-c7de1fb37478",
+    "data": [
+      {
+        "text": "Can I fill in the Adverse Event form in ",
+        "userDefined": false
+      },
+      {
+        "text": "spanish",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012704
+  },
+  {
+    "id": "9c170c0d-ef5f-4d8c-8667-b4d883aa9248",
+    "data": [
+      {
+        "text": "Where should I record an AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535377595
+  },
+  {
+    "id": "d2096649-63e0-45b7-868a-6e8cc5a4bb98",
+    "data": [
+      {
+        "text": "How do I fill out the AE form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012704
+  },
+  {
+    "id": "f95cbf5d-420b-4b4c-a507-f76b40a17211",
+    "data": [
+      {
+        "text": "how should i fill in the adverse event form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012704
+  },
+  {
+    "id": "ad68b5a2-d09a-4648-a904-8b4521e7dd52",
+    "data": [
+      {
+        "text": "How do I record an AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535377595
+  },
+  {
+    "id": "290c84d4-0ee5-4a6e-ae1b-a8984870c5bd",
+    "data": [
+      {
+        "text": "Where should I record an adverse Event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535377595
+  },
+  {
+    "id": "02f328b0-2433-4cde-bae8-2a67f5055b44",
+    "data": [
+      {
+        "text": "Does the adverse event form always have to be in ",
+        "userDefined": false
+      },
+      {
+        "text": "english",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012704
+  }
+]

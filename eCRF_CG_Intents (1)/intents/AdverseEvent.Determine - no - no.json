@@ -1,0 +1,43 @@
+{
+  "id": "2f3f0772-4dd4-4aa5-85c0-a8db31fd692c",
+  "parentId": "48c8c1dd-c991-4a1c-897b-18bb90a3d768",
+  "rootParentId": "c617c984-1e9d-4759-a4b8-0a299446af4f",
+  "name": "AdverseEvent.Determine - no - no",
+  "auto": true,
+  "contexts": [
+    "AdverseEventDetermine-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "AdverseEventDetermine.AdverseEventDetermine-no.AdverseEventDetermine-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Report each symptom in a separated AE form."
+        },
+        {
+          "type": 0,
+          "lang": "fr-fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534843316,
+  "fallbackIntent": false,
+  "events": []
+}

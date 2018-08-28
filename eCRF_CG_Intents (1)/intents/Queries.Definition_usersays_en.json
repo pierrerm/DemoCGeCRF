@@ -1,0 +1,110 @@
+[
+  {
+    "id": "e12d97bc-35f0-4aca-a7d2-ce34efd31194",
+    "data": [
+      {
+        "text": "explain queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "a6010eb1-1602-44b5-a013-5a50c8978836",
+    "data": [
+      {
+        "text": "What are queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "67fe92e4-1a35-4ecb-be51-ea95ddb76815",
+    "data": [
+      {
+        "text": "help me with queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "db14f5b5-2b09-43df-8e1a-c8db744e9f09",
+    "data": [
+      {
+        "text": "i dont know what a query is",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "17ef56cc-88a0-4a4b-bf7b-dd73e283e3fb",
+    "data": [
+      {
+        "text": "define query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "65dd7595-6934-4e10-878a-7589456593af",
+    "data": [
+      {
+        "text": "define queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "96e72aa8-7ed9-49ea-8c69-85a6ff13fc32",
+    "data": [
+      {
+        "text": "What is a query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "8e1436a9-b7c3-41c9-b579-c338e2d87ab7",
+    "data": [
+      {
+        "text": "what types of queries are there?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  },
+  {
+    "id": "9967977f-9fd9-4fe6-b38e-04623054bfc3",
+    "data": [
+      {
+        "text": "give me the definition of a query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533726789
+  }
+]

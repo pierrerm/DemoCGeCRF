@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a7efcdef-deb3-4e42-beaf-9fdd8eee3f55",
+    "data": [
+      {
+        "text": "What is the delay before which I have to report serious adverse events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535029827
+  },
+  {
+    "id": "a2eac6ef-42f3-4226-be47-d9ef0ccf049e",
+    "data": [
+      {
+        "text": "What should I do if an SAE occurs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535378253
+  },
+  {
+    "id": "2d13f584-53ac-48aa-9f03-e7754af6d631",
+    "data": [
+      {
+        "text": "How long do I have to report an SAE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1535029827
+  },
+  {
+    "id": "cc977672-b37c-4fda-9170-56d2b8367f46",
+    "data": [
+      {
+        "text": "A subject is suffering from a serious adverse event, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535029827
+  },
+  {
+    "id": "39b75508-749c-490f-a12d-00d5300c64ef",
+    "data": [
+      {
+        "text": "What should I do if a serious adverse event happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535029827
+  },
+  {
+    "id": "b61b2c3e-8ecf-4e2a-b788-cca4ac6c12e4",
+    "data": [
+      {
+        "text": "what do I have to do when an SAE happens?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535029827
+  },
+  {
+    "id": "198a695e-60e9-4a6f-bdd5-4e2a6ca9e449",
+    "data": [
+      {
+        "text": "What are the steps to take when an SAE occurs?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535029827
+  }
+]

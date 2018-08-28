@@ -1,0 +1,28 @@
+{
+  "id": "c1b78766-0b00-420f-b63b-cefb004da41d",
+  "name": "AdverseEvent.Instruction3",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535013319,
+  "fallbackIntent": false,
+  "events": []
+}

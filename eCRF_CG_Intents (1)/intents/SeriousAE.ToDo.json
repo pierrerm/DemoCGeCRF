@@ -1,0 +1,28 @@
+{
+  "id": "cd726eac-fc6e-469d-b3b5-56defd1c4090",
+  "name": "SeriousAE.ToDo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535378253,
+  "fallbackIntent": false,
+  "events": []
+}

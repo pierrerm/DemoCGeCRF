@@ -1,0 +1,74 @@
+[
+  {
+    "id": "e8b11e1e-98cd-45ce-a721-a3fa035c3930",
+    "data": [
+      {
+        "text": "What should i enter if an AE has been marked serious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014257
+  },
+  {
+    "id": "a986abef-fe79-47d7-9166-99cda4f94065",
+    "data": [
+      {
+        "text": "concomitant medication number for a serious adverse event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014257
+  },
+  {
+    "id": "0c244463-061a-4b7d-b716-e6f39e28fdfe",
+    "data": [
+      {
+        "text": "What CM identifier should i provide if an adverse event has been marked serious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014257
+  },
+  {
+    "id": "422b8036-1b64-438e-b816-a8dbcfa04de3",
+    "data": [
+      {
+        "text": "how do I provide Concomitant medication info if an adverse event has been ticked serious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014257
+  },
+  {
+    "id": "fa61b3c2-cb6b-4b8d-9784-9d48bf0df8a7",
+    "data": [
+      {
+        "text": "What should i enter for concomitant medication identifier if an AE is serious?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014257
+  },
+  {
+    "id": "e649fcdb-6402-4a16-891e-1afc32233098",
+    "data": [
+      {
+        "text": "CM identifier for a serious AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014257
+  }
+]

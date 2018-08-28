@@ -1,0 +1,59 @@
+[
+  {
+    "id": "fc39e051-312d-4a64-a6ff-b84777b72257",
+    "data": [
+      {
+        "text": "What should i enter a start date if the medication was taken before trial?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016770
+  },
+  {
+    "id": "0463ca5c-3bf6-43d4-9fab-01dd025e2feb",
+    "data": [
+      {
+        "text": "what do I enter for start date if the medication was taken before the study and it is not known?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016770
+  },
+  {
+    "id": "bcdf397c-9d3c-4b15-a624-e7d8229fcb4a",
+    "data": [
+      {
+        "text": "What do I do if CM was taken before the start of the trial and the start date is ",
+        "userDefined": false
+      },
+      {
+        "text": "unknown",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016770
+  },
+  {
+    "id": "5b8abf56-932e-4542-bde0-dcef16a1fb6b",
+    "data": [
+      {
+        "text": "What if the subject started taking the medication before the start of the trial?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016770
+  }
+]

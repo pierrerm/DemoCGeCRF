@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d0a5148e-c052-4262-8311-086a03c7e6ca",
+    "data": [
+      {
+        "text": "where can I add a new adverse event",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "258b02ae-42d5-4577-ad25-2cb4c1936891",
+    "data": [
+      {
+        "text": "How can I add a new adverse event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "47b62314-4a74-4774-b635-a12419a6e1d1",
+    "data": [
+      {
+        "text": "How can I enter another AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "0a2b8aaf-5f3a-4469-bed9-d8999ee69de4",
+    "data": [
+      {
+        "text": "How do I add a new event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "044063df-29df-436c-aa71-21ffa49fedb3",
+    "data": [
+      {
+        "text": "How can I add an adverse event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "ec16780c-55f3-40dc-8946-d2ede3d9aa97",
+    "data": [
+      {
+        "text": "where can I add another adverse event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "3b7d7639-824d-4a81-b3a4-ed77e6e2e14c",
+    "data": [
+      {
+        "text": "Where can I add a new AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "25f2dfb3-44b9-469c-9f3e-d4d068e4e1ac",
+    "data": [
+      {
+        "text": "how can I record a new AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  },
+  {
+    "id": "ca772ad9-05b0-4d65-9125-e3242c1a15aa",
+    "data": [
+      {
+        "text": "How do i add a new log line?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535014414
+  }
+]

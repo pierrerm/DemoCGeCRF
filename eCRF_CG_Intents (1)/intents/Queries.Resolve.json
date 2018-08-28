@@ -1,0 +1,51 @@
+{
+  "id": "72ac5bca-50ba-48c4-9348-ef213c067915",
+  "name": "Queries.Resolve",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "QueriesResolve-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Need more help?",
+          "replies": [
+            "Yes please!",
+            "No thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To resolve a query, update the incorrect field and select the \"Data correction\" reason for the change and/or provide an explanation for the discrepancy. Then click \"Save\" and the CRF page will be updated."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When the issue is resolved, the query will disappear. The field that has been edited will have a small yellow triangle next to it to indicate changes have been made to the data in this field and an audit trail is available to review the changes."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535368938,
+  "fallbackIntent": false,
+  "events": []
+}

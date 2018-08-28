@@ -1,0 +1,28 @@
+{
+  "id": "a27e80e8-b0ee-414e-a9be-e5f58f14bcf8",
+  "name": "ConcomitantMedication.Prior",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If started before trial and start date unknown, tick “Prior study start” and leave empty the Start Date."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535016770,
+  "fallbackIntent": false,
+  "events": []
+}

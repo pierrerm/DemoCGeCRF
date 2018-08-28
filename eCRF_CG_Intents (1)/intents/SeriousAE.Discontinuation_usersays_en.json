@@ -1,0 +1,86 @@
+[
+  {
+    "id": "a307546f-a0c9-461d-afbb-61fbc298fe66",
+    "data": [
+      {
+        "text": "What do I have to do if the subject drops out of the study following an SAE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535026728
+  },
+  {
+    "id": "745cc8aa-c8df-4a27-ae06-806f6b8265ed",
+    "data": [
+      {
+        "text": "a subject had a serious adverse event and wishes to drop out of the study, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535032731
+  },
+  {
+    "id": "3f60128d-e9c1-4cf9-8e94-8afb35a9c170",
+    "data": [
+      {
+        "text": "A subject wishes to discontinue the trial following an SAE, what are the steps to take?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535032731
+  },
+  {
+    "id": "d193f513-9427-4a89-a308-36792eac2613",
+    "data": [
+      {
+        "text": "What form do I have to fill following discontinuation of the study ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534931307
+  },
+  {
+    "id": "e495c5c2-ad0b-42b0-8191-2a133ca86f75",
+    "data": [
+      {
+        "text": "What if a serious adverse event leads to study discontinuation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535026728
+  },
+  {
+    "id": "97df528b-d47e-42c7-939a-7fd3dde118e0",
+    "data": [
+      {
+        "text": "What to do if a serious adverse event leads to discontinuation of the study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535026728
+  },
+  {
+    "id": "7c8d095d-f71a-49d5-b134-0f30f94be68f",
+    "data": [
+      {
+        "text": "What happens if we discontinue the study following an SAE ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534931307
+  }
+]

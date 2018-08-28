@@ -1,0 +1,74 @@
+[
+  {
+    "id": "ca9e7016-4bb4-41ac-8e01-0c47de4a329c",
+    "data": [
+      {
+        "text": "What happens if the subject is still taking this medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534756381
+  },
+  {
+    "id": "01022d90-b3dd-478f-bf1b-24a1710e0246",
+    "data": [
+      {
+        "text": "Do I still fill out end date if the medication is ongoing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534756381
+  },
+  {
+    "id": "b72307c3-21cd-479b-a682-c64ff647ace4",
+    "data": [
+      {
+        "text": "What do put as end date if the medication is still ongoing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016512
+  },
+  {
+    "id": "7167488b-1f65-4edb-b592-d4d937e0133e",
+    "data": [
+      {
+        "text": "What if the medication is still being taken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534756381
+  },
+  {
+    "id": "e1ffc1d3-4f2d-4b17-b6ea-57e6ff549227",
+    "data": [
+      {
+        "text": "What should I enter for end date if the medication is still being taken?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016512
+  },
+  {
+    "id": "0a53d460-f1f2-44be-bedf-5e4a51815ad6",
+    "data": [
+      {
+        "text": "What should I do if the medication is still ongoing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534756381
+  }
+]

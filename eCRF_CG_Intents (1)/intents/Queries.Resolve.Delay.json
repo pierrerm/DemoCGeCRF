@@ -1,0 +1,28 @@
+{
+  "id": "3ea208ce-3120-4380-bc84-db0fe21e2ccd",
+  "name": "Queries.Resolve.Delay",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You should resolve queries, system (automatic) within 5 days of the date of issue. At the end of the study you may be requested to respond more quickly 🕔. Be concise when answering a query since the number of characters is limited."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533805278,
+  "fallbackIntent": false,
+  "events": []
+}

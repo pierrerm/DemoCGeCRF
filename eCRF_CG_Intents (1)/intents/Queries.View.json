@@ -1,0 +1,49 @@
+{
+  "id": "39927dc0-1fd2-4829-b6ee-b187d2ec6d4f",
+  "name": "Queries.View",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Want to know more?",
+          "replies": [
+            "Resolving a query",
+            "Manual queries",
+            "System queries",
+            "No thanks!"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You will see an issuance of a Query on the Task summary as a red question mark in a yellow bubble."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "By clicking the drop down list in front of it you will be shown a list with the pages with open queries. By clicking on a single page you will navigate directly to that CRF page."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "telegram": false,
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533734127,
+  "fallbackIntent": false,
+  "events": []
+}

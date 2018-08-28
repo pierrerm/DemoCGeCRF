@@ -1,0 +1,28 @@
+{
+  "id": "eb2173aa-c5a4-4c1d-a11f-ebe417830e19",
+  "name": "SeriousAE.Discontinuation",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If ticked Yes to “Is this SAE the cause for study discontinuation?”, please complete “Completion / Discontinuation” form and tick “Adverse Event” as Drop-out reason."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535032731,
+  "fallbackIntent": false,
+  "events": []
+}

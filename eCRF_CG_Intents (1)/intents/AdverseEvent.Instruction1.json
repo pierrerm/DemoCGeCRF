@@ -1,0 +1,56 @@
+{
+  "id": "55b3aa0b-bb5f-4ac9-b753-abd69cf09b3e",
+  "name": "AdverseEvent.Instruction1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/AdverseEvent_zpsfgefhstf.png"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/AdverseEvent_zpsfgefhstf.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/AdverseEvent_zpsfgefhstf.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Fill in the AE form in English and in an eligible manner. Be as complete as possible."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The following information must be completed for each adverse event:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false,
+        "telegram": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535446029,
+  "fallbackIntent": false,
+  "events": []
+}

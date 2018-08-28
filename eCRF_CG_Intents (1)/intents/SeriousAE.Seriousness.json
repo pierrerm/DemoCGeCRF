@@ -1,0 +1,28 @@
+{
+  "id": "23b43ca2-e540-422d-82d5-b294eec76b07",
+  "name": "SeriousAE.Seriousness",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please tick at least one box for seriousness."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535027341,
+  "fallbackIntent": false,
+  "events": []
+}

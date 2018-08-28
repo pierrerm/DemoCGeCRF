@@ -1,0 +1,43 @@
+{
+  "id": "65523aa4-61dc-4768-b5f3-e445a980c6ce",
+  "parentId": "c617c984-1e9d-4759-a4b8-0a299446af4f",
+  "rootParentId": "c617c984-1e9d-4759-a4b8-0a299446af4f",
+  "name": "AdverseEvent.Determine - yes",
+  "auto": true,
+  "contexts": [
+    "AdverseEventDetermine-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "AdverseEventDetermine.AdverseEventDetermine-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Report only the Diagnosis in a single AE form."
+        },
+        {
+          "type": 0,
+          "lang": "fr-fr",
+          "speech": []
+        },
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534842859,
+  "fallbackIntent": false,
+  "events": []
+}

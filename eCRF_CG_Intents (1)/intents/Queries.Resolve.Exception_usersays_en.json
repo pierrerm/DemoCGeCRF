@@ -1,0 +1,86 @@
+[
+  {
+    "id": "76172893-5f3c-4cfa-9d72-81db87a40e3b",
+    "data": [
+      {
+        "text": "I think my data is accurate, should I still change it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533809893
+  },
+  {
+    "id": "df65664d-cfec-4b89-bea9-a1243e815fff",
+    "data": [
+      {
+        "text": "I disagree with a query, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533809893
+  },
+  {
+    "id": "f7a8cded-9f03-450c-9824-665244727e2b",
+    "data": [
+      {
+        "text": "What if my data is correct?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533809893
+  },
+  {
+    "id": "968c6572-892f-4665-acbb-efc6ec588328",
+    "data": [
+      {
+        "text": "I don\u0027t think there is an error in my data, do I still respond to the query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533809893
+  },
+  {
+    "id": "50fb46cc-2918-4e83-9e5d-d4f2813e7293",
+    "data": [
+      {
+        "text": "What if I don\u0027t need to change my data?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533809893
+  },
+  {
+    "id": "5b310dea-6365-46e8-a3c9-9177a93376b6",
+    "data": [
+      {
+        "text": "I don\u0027t think that I made a mistake, yet I have a query, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533809893
+  },
+  {
+    "id": "242093fa-24cb-49ed-9498-4eb0d858731d",
+    "data": [
+      {
+        "text": "I think there is an error in the query, what do I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533809893
+  }
+]

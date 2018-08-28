@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f61b8b60-74b7-4060-80ee-f02825aa9430",
+    "data": [
+      {
+        "text": "what terms should be used when reporting medical events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889208
+  },
+  {
+    "id": "e072cd27-4dcb-474e-bcb1-a1a0654de123",
+    "data": [
+      {
+        "text": "How to report medical events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889208
+  },
+  {
+    "id": "fac2dd82-1b1e-4d13-b397-a18dd2b3fbb4",
+    "data": [
+      {
+        "text": "how should i describe medical events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889208
+  },
+  {
+    "id": "8906482d-3982-4d3f-8d0a-a93caa915e15",
+    "data": [
+      {
+        "text": "how to describe medical events?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889208
+  },
+  {
+    "id": "3359e1a0-c3c9-4f2a-bb6f-c592fe4bc75a",
+    "data": [
+      {
+        "text": "should surgical procedures be reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889208
+  },
+  {
+    "id": "653b925b-f12f-443c-91bb-683c334c9964",
+    "data": [
+      {
+        "text": "Medical history term",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533889208
+  }
+]

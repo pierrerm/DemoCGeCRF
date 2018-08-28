@@ -1,0 +1,62 @@
+[
+  {
+    "id": "0651a5bf-ebec-4a44-9e10-8ae77465ccaf",
+    "data": [
+      {
+        "text": "How should I format the AE for the indication related to AE field?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016337
+  },
+  {
+    "id": "fe29f146-9653-4694-b999-ec6fc1c0ed9f",
+    "data": [
+      {
+        "text": "what should I enter for medical history indication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016337
+  },
+  {
+    "id": "dd5ee850-946c-42ad-85d1-24dfb1510dde",
+    "data": [
+      {
+        "text": "What do I input in the indication related to AE field?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016337
+  },
+  {
+    "id": "eef64108-b9c1-4b84-af2d-194270cafec4",
+    "data": [
+      {
+        "text": "What should I enter in indication related to MH?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016337
+  },
+  {
+    "id": "3d4edcf6-921f-4414-977f-e14371f15990",
+    "data": [
+      {
+        "text": "What should I enter in \"indication, related to MH\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535016337
+  }
+]

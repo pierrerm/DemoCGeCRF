@@ -1,0 +1,28 @@
+{
+  "id": "cdb845e1-c704-40a4-8e26-c03a220c9e82",
+  "name": "ConcomitantMedication.Ongoing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If the Medication is still ongoing, leave End Date empty and tick Ongoing."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535016512,
+  "fallbackIntent": false,
+  "events": []
+}

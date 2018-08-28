@@ -1,0 +1,51 @@
+{
+  "id": "337de8e1-c556-47da-8c04-ac0c19435cd9",
+  "name": "AdditionalForms.Location",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/AdditionalForms_zpsiqo4mmym.png"
+        },
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/AdditionalForms_zpsiqo4mmym.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/AdditionalForms_zpsiqo4mmym.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "By default, Concomitant Medication and Adverse Event forms are not displayed. To do so, use the \"Additional forms\" folder which will provide you with the needed form."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false,
+        "telegram": true,
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535445925,
+  "fallbackIntent": false,
+  "events": []
+}

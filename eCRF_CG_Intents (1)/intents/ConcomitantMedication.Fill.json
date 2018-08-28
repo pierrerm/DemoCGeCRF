@@ -1,0 +1,56 @@
+{
+  "id": "03199ea6-a748-458c-94de-8ef5542242be",
+  "name": "ConcomitantMedication.Fill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "telegram",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/ConcomitantMedication_zpszrdywu8t.png"
+        },
+        {
+          "type": 3,
+          "platform": "skype",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/ConcomitantMedication_zpszrdywu8t.png"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://i346.photobucket.com/albums/p426/pierrerm38/ConcomitantMedication_zpszrdywu8t.png"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Record Concomitant Medication in the CM form only if Adverse Event is not serious, if linked with a Serious Adverse Event, the Concomitant Medication need to be recorded in Serious Adverse Event form."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The following information must be completed for each concomitant medication:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true,
+        "google": false,
+        "skype": true,
+        "telegram": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535447061,
+  "fallbackIntent": false,
+  "events": []
+}

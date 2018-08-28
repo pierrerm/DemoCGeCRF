@@ -1,0 +1,33 @@
+{
+  "id": "5e2c7ca5-6999-4496-9f17-5407f7b3587d",
+  "name": "MedicalHistory.Term",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Enter only one term or medical concept per row. Describe the medical event using concise medical terminology; i.e. syndrome names, to describe any significant medical history and concomitant chronic conditions (ex: Hypertension, diabetes).  Enter Pyelonephritis and not \"Kidney Infection\"."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Do not use any signs, symbols and abbreviations; i.e. Enter Gastroesophageal Reflux and not GER."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533889208,
+  "fallbackIntent": false,
+  "events": []
+}

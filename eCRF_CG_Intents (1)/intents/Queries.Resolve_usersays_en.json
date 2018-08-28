@@ -1,0 +1,164 @@
+[
+  {
+    "id": "abff6635-9807-49bd-a035-ce6cb81d88b5",
+    "data": [
+      {
+        "text": "Help me resolve a query",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "26954a5c-5d7c-42ee-9808-10c68d5fb0b2",
+    "data": [
+      {
+        "text": "How do I resolve a Query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "54cd8d61-700a-4981-9554-06f8d3dad9cb",
+    "data": [
+      {
+        "text": "I just edited a field and a ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " triangle appeared, what does it mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "fe2c8002-83cf-4fbc-97b8-5ae2effb883b",
+    "data": [
+      {
+        "text": "How can I resolve it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "f02f6149-e0a6-4323-8fe3-a040ec7afe68",
+    "data": [
+      {
+        "text": "What does the yellow triangle mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "6ff5660a-423b-4f0b-ad56-cfe1b5abdc94",
+    "data": [
+      {
+        "text": "How to resolve queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "8aadb689-97b4-41c7-a00b-8064d7e1cff0",
+    "data": [
+      {
+        "text": "How do I resolve them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "8256f978-2690-4d05-9ce7-24eb90f15594",
+    "data": [
+      {
+        "text": "I have a small ",
+        "userDefined": false
+      },
+      {
+        "text": "yellow",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " triangle on my screen, what does it stand for?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "93e1344d-1834-4814-84d9-ec1d3f903db7",
+    "data": [
+      {
+        "text": "Can you show me how to resolve it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "97eb452a-afda-46e6-b4bb-94601d30dde9",
+    "data": [
+      {
+        "text": "I need help to resolve my open queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "01b4dabc-fc10-4b93-804e-78b533896dd9",
+    "data": [
+      {
+        "text": "How do I resolve it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  },
+  {
+    "id": "48e08b12-0e36-4c3d-9200-abff8ae2360f",
+    "data": [
+      {
+        "text": "Im not sure how to resolve queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533740606
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "id": "c28828e9-04d2-41fa-a492-8e9bea11344e",
+  "name": "MedicalHistory.Diagnosis",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533889891,
+  "fallbackIntent": false,
+  "events": []
+}

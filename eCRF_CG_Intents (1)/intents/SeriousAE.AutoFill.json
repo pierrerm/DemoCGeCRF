@@ -1,0 +1,28 @@
+{
+  "id": "f0fe152f-9da4-4f77-8192-66f67231362e",
+  "name": "SeriousAE.AutoFill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535025942,
+  "fallbackIntent": false,
+  "events": []
+}

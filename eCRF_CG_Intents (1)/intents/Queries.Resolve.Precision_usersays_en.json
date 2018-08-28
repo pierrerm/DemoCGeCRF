@@ -1,0 +1,134 @@
+[
+  {
+    "id": "01edf348-8d4d-4c0e-9f1d-fcab2f963441",
+    "data": [
+      {
+        "text": "Should all queries be resolved before inactivating pages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "90628836-678f-4b8d-95ef-a7d63defc0a5",
+    "data": [
+      {
+        "text": "What level of precision is preferred when resolving queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "d138a2fa-c16a-4943-8a44-4f19686fe557",
+    "data": [
+      {
+        "text": "How do I prevent queries from being reissued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "61113b41-3c90-4923-928b-c59c7f59fe0f",
+    "data": [
+      {
+        "text": "How much detail should I provide when responding to queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "b3a321c4-94b8-4155-84a6-b05697f35a8b",
+    "data": [
+      {
+        "text": "A query was reissued, what should I do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "b106f03f-1e35-453d-a9a3-a0d94e9bc173",
+    "data": [
+      {
+        "text": "Do I have to close all queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "7dfb1d86-bbad-4ce0-bd96-0b026f422595",
+    "data": [
+      {
+        "text": "How much detail do I have to provide?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "aabb0d38-bfc8-4408-b407-cddc8f1408ea",
+    "data": [
+      {
+        "text": "How precise should I be?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "15b57765-d193-450a-8a4d-7a311696bf24",
+    "data": [
+      {
+        "text": "Do I need to go in depth when resolving queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "96ed2302-8d22-42a4-bc47-7260b7a5fa43",
+    "data": [
+      {
+        "text": "How concise should my responses be?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  },
+  {
+    "id": "3d1558e9-4a48-4a9e-9982-66d11335b783",
+    "data": [
+      {
+        "text": "What precision should my query responses have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805828
+  }
+]

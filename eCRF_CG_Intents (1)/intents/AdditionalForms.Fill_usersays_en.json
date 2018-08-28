@@ -1,0 +1,74 @@
+[
+  {
+    "id": "421b1592-84b8-4668-bef1-f163d82e9695",
+    "data": [
+      {
+        "text": "What kind of medication?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534754861
+  },
+  {
+    "id": "884ce7b8-f349-4b92-a903-64d02f95cdcc",
+    "data": [
+      {
+        "text": "When should \"Were any medication taken\" be checked yes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534754861
+  },
+  {
+    "id": "98576a1b-e9fe-420e-8578-1371009990f6",
+    "data": [
+      {
+        "text": "When should \"yes\" be checked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534754861
+  },
+  {
+    "id": "3ddfca2f-0012-494b-8704-7768606cec22",
+    "data": [
+      {
+        "text": "When should the additional forms form be filled out?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534753692
+  },
+  {
+    "id": "500ac6d3-0dc2-4828-be7d-42fe6164591a",
+    "data": [
+      {
+        "text": "when should adverse events be checked yes?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534754861
+  },
+  {
+    "id": "541a52cc-8def-4433-adc3-9e98270a3756",
+    "data": [
+      {
+        "text": "What is the additional forms form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534753692
+  }
+]

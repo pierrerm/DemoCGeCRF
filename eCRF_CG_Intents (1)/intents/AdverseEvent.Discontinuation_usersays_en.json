@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1d5515dc-94e0-4acb-9212-9c42e6a90ac6",
+    "data": [
+      {
+        "text": "What to do if subject wishes to drop out because of an adverse event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012497
+  },
+  {
+    "id": "aed73b9a-3be3-4972-87fb-15d79914d2ba",
+    "data": [
+      {
+        "text": "What forms should i fill in if the AE causes discontinuation of the study?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012497
+  },
+  {
+    "id": "a94a08cc-b6d4-4571-840a-a741d39a6400",
+    "data": [
+      {
+        "text": "What are the steps to discontinuation because of an adverse event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012497
+  },
+  {
+    "id": "e0757540-a0ac-46fe-870a-415a5524ed51",
+    "data": [
+      {
+        "text": "What do I do if the subject drops out of the study following an AE?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012497
+  },
+  {
+    "id": "70abcdca-950a-47ca-84f4-345ce13ea3e0",
+    "data": [
+      {
+        "text": "What happens if an adverse event causes the study to be discontinued?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012497
+  },
+  {
+    "id": "ab00949f-98d3-41b1-9d9f-6c957d090afc",
+    "data": [
+      {
+        "text": "How do I discontinue the study because of an adverse event?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535012497
+  }
+]

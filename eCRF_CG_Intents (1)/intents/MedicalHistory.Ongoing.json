@@ -1,0 +1,38 @@
+{
+  "id": "c64691f5-2796-41aa-9344-c6b567c03c07",
+  "name": "MedicalHistory.Ongoing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If a specific condition requires treatment, even if no symptoms are present at enrollment, then \"ongoing\" should be checked. This will include, for example, conditions such as migraine headaches, hypertension, and gastroesophageal reflux disease, if medication needs to be taken on a regular basis to treat or prevent them and arteriosclerosis when low-dose aspirin is taken as prophylaxis."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If the condition does not require regular medication to prevent it or treat it, and if the subject does not have symptoms at enrollment, the condition should not be considered ongoing."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "𝗘𝘅𝗰𝗲𝗽𝘁𝗶𝗼𝗻: Drug, food, or contact allergies should be considered ongoing unless desensitization is known to have occurred."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1535371209,
+  "fallbackIntent": false,
+  "events": []
+}

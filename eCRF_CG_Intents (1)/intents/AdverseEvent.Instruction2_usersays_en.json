@@ -1,0 +1,119 @@
+[
+  {
+    "id": "30e478cd-4db6-4873-a53d-4968fce1f065",
+    "data": [
+      {
+        "text": "What should I enter if I don\u0027t have access to a date yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "56decb43-5fef-47fe-b2cb-d59dc262007d",
+    "data": [
+      {
+        "text": "What is the format of months?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "080e4447-fd56-4d37-bb20-3bcf29858b36",
+    "data": [
+      {
+        "text": "Should I leave a date blank if I can not fill it in yet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "eb9164d9-d1a4-4187-b0d7-b3824a504856",
+    "data": [
+      {
+        "text": "Am I allowed to leave a date blank in the AE form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "04f463eb-0d3f-4d30-959e-f57fb0e83440",
+    "data": [
+      {
+        "text": "How do I format dates in the AE form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "b540b106-ef74-4063-9d9f-43b5e6c055e9",
+    "data": [
+      {
+        "text": "Should I use numeric format for ",
+        "userDefined": false
+      },
+      {
+        "text": "months",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " in the adverse event form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "cf54b5a1-a881-41c2-8be3-da1cf0fc254d",
+    "data": [
+      {
+        "text": "What is the format for dates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "903ce918-2d25-442c-894b-1e09fd4dabb5",
+    "data": [
+      {
+        "text": "Can I leave dates blank in the Adverse Event form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  },
+  {
+    "id": "1fee4b93-bb10-41ea-ac10-683d1d5d6d4a",
+    "data": [
+      {
+        "text": "how should i format a date in the adverse event form?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535013050
+  }
+]

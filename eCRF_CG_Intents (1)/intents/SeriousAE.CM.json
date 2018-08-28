@@ -1,0 +1,38 @@
+{
+  "id": "45382968-455a-48da-a604-2b38495bead4",
+  "name": "SeriousAE.CM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "If CM associated, enter the CMs ONLY in SAE form, no need to re-enter it in CM form."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Click “Add new log line”, if several CMs associated."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Attach results of exams if needed, please keep confidentiality on it, only subject number, No personal details as Family name."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534931551,
+  "fallbackIntent": false,
+  "events": []
+}

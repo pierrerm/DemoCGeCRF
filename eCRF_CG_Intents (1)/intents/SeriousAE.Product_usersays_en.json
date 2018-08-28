@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7e199750-8c70-4399-bbe8-44869d99aef2",
+    "data": [
+      {
+        "text": "What should I enter for Study Product Information if the subject has not taken it yet ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930881
+  },
+  {
+    "id": "414131e0-e3c1-4da7-8ab3-bb7871f2b4f3",
+    "data": [
+      {
+        "text": "What should I do if I don\u0027t have any information on the Study Product ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930881
+  },
+  {
+    "id": "de971ddb-944e-426d-be41-76c273f18e64",
+    "data": [
+      {
+        "text": "What if the subject isn\u0027t taking any Product ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930881
+  },
+  {
+    "id": "e365dfbf-afea-499c-9313-0d666a4b6eac",
+    "data": [
+      {
+        "text": "What if the product has not been taken ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930881
+  },
+  {
+    "id": "fb691bcb-08d9-42f1-a4d1-1be54b8ce616",
+    "data": [
+      {
+        "text": "Should I leave Study Information blank if no product is taken ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534930881
+  }
+]

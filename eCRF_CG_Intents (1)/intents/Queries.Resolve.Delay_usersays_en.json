@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1de101b7-7e5d-4a7d-9ce8-c763988e0cc6",
+    "data": [
+      {
+        "text": "How much time do I have to answer a query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "a8e2b1e1-917b-474d-91c1-0eb423eda7c5",
+    "data": [
+      {
+        "text": "When am I supposed to resolve a query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "c7e8411f-e233-414c-bf8a-b8722ab531ef",
+    "data": [
+      {
+        "text": "How much time do I have to respond to it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "04fa5c87-5213-406e-b53c-d4d9cb11e413",
+    "data": [
+      {
+        "text": "In how many days should I respond to queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "b2d8f061-bd8e-4883-b26e-dafe19ebdfc8",
+    "data": [
+      {
+        "text": "What is the delay to resolve them?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "b3b099ea-1f6c-4039-846b-04bb0c7c65d9",
+    "data": [
+      {
+        "text": "What is the delay to resolve queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "c8ac71a5-c23d-4192-83bb-e177cdcae86a",
+    "data": [
+      {
+        "text": "How long do I have to repond to a query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "1edef566-f916-4020-b0f3-9dc2581d0edc",
+    "data": [
+      {
+        "text": "How long do I have?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "e3867ff7-59d6-4eb6-933a-e5ddf7cf7b63",
+    "data": [
+      {
+        "text": "Query response delay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  },
+  {
+    "id": "931360c1-4435-435f-82a5-762f3fef5dd3",
+    "data": [
+      {
+        "text": "When should I resolve queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533805278
+  }
+]

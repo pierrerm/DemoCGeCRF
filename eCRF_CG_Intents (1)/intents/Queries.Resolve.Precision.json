@@ -1,0 +1,33 @@
+{
+  "id": "5ed9b060-2141-46fa-a3f4-724678198411",
+  "name": "Queries.Resolve.Precision",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "To prevent any unnecessary reissuing of queries, please be very specific and concise with your responses. Please describe the specific action taken, if any, on the data and the manner of resolution rather than simply indicating it is done or fixed."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Please be sure to close all queries prior to inactivating pages. Open queries on inactivated pages will always show as outstanding. If a query references two CRFs and one of them is inactivated, the query does not close automatically. Please be sure to close such queries."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533805828,
+  "fallbackIntent": false,
+  "events": []
+}

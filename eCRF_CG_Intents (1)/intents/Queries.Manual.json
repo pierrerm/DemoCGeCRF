@@ -1,0 +1,53 @@
+{
+  "id": "76a14074-bb6e-4cd0-9efd-ecb1dca632aa",
+  "name": "Queries.Manual",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "platform": "facebook",
+          "lang": "en",
+          "payload": {
+            "facebook": {
+              "attachment": {
+                "type": "template",
+                "payload": {
+                  "template_type": "generic",
+                  "elements": [
+                    {
+                      "title": "Welcome!",
+                      "subtitle": "We have the right hat for everyone."
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Manual queries are queries which may be issued by the CRA, the Data Management (DM), the Coding Specialist, the Global Pharmacovigilance and Epidemiology SafetyCase Manager and the Medical or Scientist Expert. The record will turn pink and the query text:"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": true,
+        "telegram": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533734087,
+  "fallbackIntent": false,
+  "events": []
+}

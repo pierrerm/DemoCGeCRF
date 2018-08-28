@@ -1,0 +1,110 @@
+[
+  {
+    "id": "78351801-d4ed-4324-9ca4-cfe6648c2a93",
+    "data": [
+      {
+        "text": "when is a condition considered ongoing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1535371209
+  },
+  {
+    "id": "15d096a0-3168-4e0f-8671-45f635c56cf3",
+    "data": [
+      {
+        "text": "what conditions should be considered ongoing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  },
+  {
+    "id": "69ca8af2-41ce-4422-8714-e823582046cb",
+    "data": [
+      {
+        "text": "are their any exceptions?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  },
+  {
+    "id": "a5949851-7cab-4682-a4f7-a72ed1f6d440",
+    "data": [
+      {
+        "text": "What is ongoing at inclusion and what is not?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  },
+  {
+    "id": "e61d25c8-ad04-473c-8698-19cf2b3669a5",
+    "data": [
+      {
+        "text": "ongoing at inclusion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  },
+  {
+    "id": "f5727dd2-bed4-4f48-80d6-3137c5bc6850",
+    "data": [
+      {
+        "text": "when should \u0027ongoing\u0027 be checked?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  },
+  {
+    "id": "388517e5-f046-4658-8c37-3146438fb244",
+    "data": [
+      {
+        "text": "Are allergies considered ongoing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  },
+  {
+    "id": "cd17c6b4-8467-4fea-ae4e-255befc22fef",
+    "data": [
+      {
+        "text": "what isn\u0027t considered ongoing?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  },
+  {
+    "id": "0053748b-da36-469f-b4d6-1f3e19b1b29f",
+    "data": [
+      {
+        "text": "What does ongoing mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533822402
+  }
+]

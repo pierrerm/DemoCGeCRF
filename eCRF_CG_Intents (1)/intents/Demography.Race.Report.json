@@ -1,0 +1,33 @@
+{
+  "id": "a95cfcbf-37b8-4898-a8a4-b17571ce90f4",
+  "name": "Demography.Race.Report",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Study participants should self-report race information whenever feasible, and individuals should be permitted to designate a multiracial identity."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "When the collection of self-reported designations is not feasible (e.g. because of the subject\u0027s inability to respond), it is recommended that the information be requested from a first-degree relative or other knowledgeable source."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533810495,
+  "fallbackIntent": false,
+  "events": []
+}

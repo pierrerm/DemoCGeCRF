@@ -1,0 +1,110 @@
+[
+  {
+    "id": "d97ed715-2b79-4234-bcbe-1dadb674e9cc",
+    "data": [
+      {
+        "text": "je n\u0027en veux pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534842447
+  },
+  {
+    "id": "353109b5-499a-4faf-8496-aa0fb04b999f",
+    "data": [
+      {
+        "text": "je ne crois pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1534842447
+  },
+  {
+    "id": "aeaa97e4-6576-4375-a127-0700b1ebe11b",
+    "data": [
+      {
+        "text": "ne le fais pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534842447
+  },
+  {
+    "id": "5726747f-2f97-4f1b-ac10-a39b39fc215d",
+    "data": [
+      {
+        "text": "ça ne m\u0027intéresse pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534842447
+  },
+  {
+    "id": "ad66c1e5-0ce0-4083-87d3-c81b6a114113",
+    "data": [
+      {
+        "text": "pas vraiment",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534842447
+  },
+  {
+    "id": "be8e875a-a1db-43df-8f13-2a54d184d86a",
+    "data": [
+      {
+        "text": "je ne suis pas d\u0027accord",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1534842447
+  },
+  {
+    "id": "e283a900-4313-404b-aa1d-ab9e581e896a",
+    "data": [
+      {
+        "text": "sûrement pas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534842447
+  },
+  {
+    "id": "21f7041a-8fbb-4b67-98dc-32a3ee8b8f1d",
+    "data": [
+      {
+        "text": "non merci",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1534842447
+  },
+  {
+    "id": "eae90e88-c9ce-49ee-a051-47329f0e6f26",
+    "data": [
+      {
+        "text": "non",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1534842447
+  }
+]

@@ -1,0 +1,131 @@
+[
+  {
+    "id": "1c0aa5ef-c7f3-449b-b69a-ecef5b70ec63",
+    "data": [
+      {
+        "text": "explain manual queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "a124a314-50e7-407f-a5b4-467c004837ee",
+    "data": [
+      {
+        "text": "What is \"Opened by the Safety to Site\"?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "98f0cd41-46b9-45cf-8b24-9e875d16a2bc",
+    "data": [
+      {
+        "text": "I\u0027m not sure what manual queries are",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "7366ee00-d170-422d-84ae-b3163f2bb63e",
+    "data": [
+      {
+        "text": "what are manual queries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "fab1aac7-f96a-4a67-a384-47d0647a77ea",
+    "data": [
+      {
+        "text": "\"Opened\"Opened by the CRA to site\", what does that mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "bdc2d616-e93d-43c5-8c38-1003641a8eb7",
+    "data": [
+      {
+        "text": "The record is ",
+        "userDefined": false
+      },
+      {
+        "text": "pink",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": ", and says \" Opened by the DM to site\", what does that mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "d800c680-c614-48b2-858f-a3bb8a755e8b",
+    "data": [
+      {
+        "text": "what does manual query mean?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "efacc2fb-11ec-4945-b1f1-7be7f4f083f1",
+    "data": [
+      {
+        "text": "Manual queries",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533733018
+  },
+  {
+    "id": "fca85437-9f94-45aa-80c5-473b8d432f46",
+    "data": [
+      {
+        "text": "how do manual queries work?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  },
+  {
+    "id": "1265e091-2cb0-4152-a3e6-849c2eaada91",
+    "data": [
+      {
+        "text": "what is a manual query?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1533734087
+  }
+]

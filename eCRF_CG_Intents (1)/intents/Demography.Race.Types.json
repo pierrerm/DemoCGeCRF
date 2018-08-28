@@ -1,0 +1,28 @@
+{
+  "id": "1065ed14-5650-4ab9-a5bf-57704037fb0e",
+  "name": "Demography.Race.Types",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1533811085,
+  "fallbackIntent": false,
+  "events": []
+}
